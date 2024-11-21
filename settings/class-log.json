@@ -1,0 +1,30 @@
+{
+    "Lib\\Middleware\\AuthMiddleware": {
+        "class_name": "Lib\\Middleware\\AuthMiddleware",
+        "file_path": "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\shadcn-buttons-phpx\/src\/Lib\/Middleware\/AuthMiddleware.php"
+    },
+    "Lib\\Auth\\AuthConfig": {
+        "class_name": "Lib\\Auth\\AuthConfig",
+        "file_path": "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\shadcn-buttons-phpx\/src\/Lib\/Auth\/AuthConfig.php"
+    },
+    "Lib\\PHPX\\Shadcn\\Button": {
+        "class_name": "Lib\\PHPX\\Shadcn\\Button",
+        "file_path": "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\shadcn-buttons-phpx\/src\/Lib\/PHPX\/Shadcn\/Button.php"
+    },
+    "Lib\\PHPX\\GoogleIcons\\ArrowBackiOS": {
+        "class_name": "Lib\\PHPX\\GoogleIcons\\ArrowBackiOS",
+        "file_path": "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\shadcn-buttons-phpx\/src\/Lib\/PHPX\/GoogleIcons\/ArrowBackiOS.php"
+    },
+    "Lib\\MainLayout": {
+        "class_name": "Lib\\MainLayout",
+        "file_path": "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\shadcn-buttons-phpx\/src\/Lib\/MainLayout.php"
+    },
+    "Lib\\PHPX\\TemplateCompiler": {
+        "class_name": "Lib\\PHPX\\TemplateCompiler",
+        "file_path": "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\shadcn-buttons-phpx\/src\/Lib\/PHPX\/TemplateCompiler.php"
+    },
+    "Lib\\PHPX\\Utils": {
+        "class_name": "Lib\\PHPX\\Utils",
+        "file_path": "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\shadcn-buttons-phpx\/src\/Lib\/PHPX\/Utils.php"
+    }
+}

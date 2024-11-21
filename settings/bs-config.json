@@ -1,0 +1,6 @@
+{
+  "local": "http://localhost:3000",
+  "external": "http://10.88.18.32:3000",
+  "ui": "http://localhost:3001",
+  "uiExternal": "http://10.88.18.32:3001"
+}
